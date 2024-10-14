@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheeraj Kumar -aka @Deadp0o0L
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently exploring Spring Boot & AWS
 - 📫 To connect, please [Click Here]
 
 
