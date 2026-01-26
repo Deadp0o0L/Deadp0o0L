@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheeraj Kumar 
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently exploring AI, Spring Boot & AWS
+- 🌱 I’m currently exploring AI, Spring Boot, AWS and System Design
 - 📫 To connect, please [Click Here]
 
 
