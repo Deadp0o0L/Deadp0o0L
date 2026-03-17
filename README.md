@@ -1,13 +1,81 @@
-- 👋 Hi, I’m Dheeraj Kumar 
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently exploring AI, Spring Boot, AWS and System Design 
-- 📫 To connect, please [Click Here]
+<h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
 
+<h3 align="center">Backend Engineer | AWS Certified | Building Scalable & Intelligent Systems</h3>
 
-[Click Here]: https://www.linkedin.com/in/kumar-dheeraj/
+---
 
+### 🚀 About Me
+
+* 💻 Backend Developer specializing in **Java & Spring Boot**
+* ☁️ AWS Certified (Cloud Practitioner & AI Practitioner)
+* 🧠 Currently diving deep into:
+
+  * **System Design (scaling from 0 → millions)**
+  * **AI Engineering (RAG, LLMs, Bedrock, Ollama)**
+  * **Distributed Systems & Caching (Redis, CDN, Load Balancing)**
+* 🔍 Passionate about building **high-performance, scalable, and intelligent applications**
+
+---
+
+### 🧠 What I’m Working On
+
+* ⚡ Designing **RAG-based AI systems** for real-world use cases
+* 📊 Building **data-driven backend services**
+* 🏗️ Learning **system design patterns used in FAANG-level architectures**
+* ☁️ Exploring advanced **AWS services (Bedrock, OpenSearch, Lambda)**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💡 Core
+
+* Java, Spring Boot, REST APIs
+* System Design, Microservices Architecture
+
+#### ☁️ Cloud & DevOps
+
+* AWS (S3, EC2, Lambda, Bedrock, OpenSearch)
+* Docker, Jenkins, CI/CD Pipelines
+
+#### 🧠 AI & Data
+
+* RAG (Retrieval-Augmented Generation)
+* Vector Databases, Embeddings
+* Elasticsearch / OpenSearch
+
+#### 🗄️ Databases
+
+* PostgreSQL, Oracle, SQL Server
+* Redis (Caching & Performance Optimization)
+
+#### 🌐 Frontend (Working Knowledge)
+
+* HTML, CSS, JavaScript
+
+---
+
+### 🔗 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/kumar-dheeraj/
+
+---
+
+### 📈 Current Focus
+
+> Building systems that are not just scalable — but **intelligent by design**
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  </p>
-
-
+<p align="left"> 
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> </a>  
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/> </a>
+<a href="https://www.elastic.co/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/> </a>
+</p>
